@@ -5,8 +5,9 @@ https://www.youtube.com/watch?v=vAV4Vy4jfkc&t=10s
 
 Aplicação de criação de usuário e envio de email utilizando os principais conceitos de SOLID.
 
-Para utilizar a API basta realizar os seguintes comandos:
+Alterar o constructor da classe MailTrapMailProvider no arquivo '/src/providers/implementatios/MailtrapMailProvides.ts' com as suas informações do mailtrap.
 
+Após a alteração, para utilizar a API basta realizar os seguintes comandos:
 <h3>yarn install</h3>
 <h3>yarn start</h3>
 
